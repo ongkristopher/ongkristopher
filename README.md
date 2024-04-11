@@ -25,6 +25,7 @@ I'm a passionate **Frontend Developer** with experience in **Angular and React**
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ongkristopher&show_icons=true&locale=en&layout=compact" alt="ongkristopher" /></p>
 
 ## Featured Projects 💻
 
@@ -36,3 +37,4 @@ I'm a passionate **Frontend Developer** with experience in **Angular and React**
 
 ## Get in Touch 📬
 - [LinkedIn](https://www.linkedin.com/in/ongkristopher/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ongkristopher&label=Profile%20views&color=0e75b6&style=flat" alt="ongkristopher" /> </p>
