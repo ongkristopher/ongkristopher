@@ -1,6 +1,7 @@
 # Hi there, I'm Kris! 👋
 
-![Banner Image](your_banner_image_url_here)
+<img width="1834" alt="Make your README" src="https://github.com/ongkristopher/ongkristopher/assets/19937333/e7acf2fd-1775-44be-a7fa-0703baaacfc4">
+
 
 ## About Me 🚀
 
