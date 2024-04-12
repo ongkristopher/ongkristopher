@@ -35,11 +35,11 @@ I'm a passionate **Frontend Developer** with experience in **Angular and React**
 
 ## Featured Projects 💻
 
-### [Loan Management](Loan_Management_link)
+### [Loan Management](https://github.com/ongkristopher/loan-management)
 
-![Loan Management Screenshot](Loan_Management_screenshot_url)
+![image](https://github.com/ongkristopher/ongkristopher/assets/19937333/f654300a-bb59-4d3c-a92e-2dec77274034)
 
-**[Loan Management]** is a **[system to help my brother sort his loaning business]** built with **[NextJs, shadcn UI, and Firebase]**. This project demonstrates my ability to **[create a system from scratch]**. You can check out the repository [here](Loan_Management_link).
+**Loan Management** is a **system to help my brother sort his loaning business** built with **NextJs, shadcn UI, and Firebase**. This project demonstrates my ability to **create a system from scratch**. You can check out the repository [here](https://github.com/ongkristopher/loan-management).
 
 ## Get in Touch 📬
 - [LinkedIn](https://www.linkedin.com/in/ongkristopher/)
